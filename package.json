@@ -1,0 +1,8 @@
+{
+  "name": "hackrank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flowerchaton/hackrank.git",
+  "author": "flowerchaton <joeweed@live.com>",
+  "license": "MIT"
+}
